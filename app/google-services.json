@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374329610250",
+    "project_id": "epharmav1",
+    "storage_bucket": "epharmav1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374329610250:android:3f1895d54d60656ad90ff3",
+        "android_client_info": {
+          "package_name": "com.example.epharma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLUPhgASDhr65e8jSMJtP7XzwBfujFFNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
